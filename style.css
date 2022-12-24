@@ -1,0 +1,25 @@
+
+body
+{
+    background-color: rgb(255, 243, 9);
+}
+
+#img1
+{
+    width: 400px;
+}
+
+#img3
+{
+    width: 400px;
+}
+
+li
+{
+    background-color: rgb(170, 238, 99);
+    width: 100%;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 23px;
+    font-family: 'Caveat', cursive;
+}
